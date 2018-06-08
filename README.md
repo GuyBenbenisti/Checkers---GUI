@@ -1,1 +1,1 @@
-# Checkers---GUI
+# Checkers- with GUI, implemented using WinForm
